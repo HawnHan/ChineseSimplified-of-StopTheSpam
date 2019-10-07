@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EmailMessageOption_SendRaidTitle>那么，好吧</EmailMessageOption_SendRaidTitle>
+  <EmailMessageOption_SendRaid>好吧，你真的想要这个吗？那么你可以开始祈祷了！</EmailMessageOption_SendRaid>
+
+  <FuckYou>淦</FuckYou>
+
+  <WishGoodLuck>祝你好运</WishGoodLuck>
+
+  <NiceJoke>有趣的笑话</NiceJoke>
+  <NiceJoke_Explain>笑话？你可是有很多不错的建筑的！{0},想想它们化成灰尘的样子还真让人难过。</NiceJoke_Explain>
+  <NiceJoke_Subject>爆炸</NiceJoke_Subject>
+  <Blef>虚张声势</Blef>
+  <Blef_Explain>哈哈地狱里再见吧！</Blef_Explain>
+  <Blef_Subject>爆炸</Blef_Subject>
+  <DontDoIs>等等，别这么做！</DontDoIs>
+  <DontDoIs_Explain>我从你的语气里听出了绝望。遗憾的是，炸弹已经埋好，而且不可能被关闭。再见！</DontDoIs_Explain>
+  <DontDoIs_Subject>爆炸</DontDoIs_Subject>
+
+  <BadJoke>傻子，实际上，这不过是个笑话</BadJoke>
+  <GoodJoke>哈哈，真好笑</GoodJoke>
+
+  <WellOK>好的</WellOK>
+  <JustGetABullet>过来受死！</JustGetABullet>
+
+  <Wtf>这是个谎言！</Wtf>
+  <Wtf_Subject>远征队消失了</Wtf_Subject>
+  <Wtf_Explain>你极有可能在撒谎。然而，我找不到证据将落实这件事是你导致的。我们将会继续追查你。</Wtf_Explain>
+
+  <NiceCaravan>他毫无诚意。</NiceCaravan>
+  <NiceCaravan_Subject>远征队消失了</NiceCaravan_Subject>
+  <NiceCaravan_Explain>好吧！我本不想攻击你，但现在！我发誓你必将被我毁灭！</NiceCaravan_Explain>
+
+
+</LanguageData>
